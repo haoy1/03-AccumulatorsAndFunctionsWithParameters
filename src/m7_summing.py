@@ -116,11 +116,11 @@ def sum_square_roots(n):
          sqrt(2) + sqrt(4) + sqrt(6) + sqrt(8) + sqrt(10),
       which is about 11.854408.
     """
-    sum=0
+    summ=0
     for k in range(n+1):
-        sum=sum+math.sqrt(2*k)
+        summ=sum+math.sqrt(2*k)
 
-    return sum
+    return summ
 
     # ------------------------------------------------------------------
     # DONE: 5. Implement and test this function.
