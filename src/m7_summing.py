@@ -118,7 +118,7 @@ def sum_square_roots(n):
     """
     summ=0
     for k in range(n+1):
-        summ=sum+math.sqrt(2*k)
+        summ=summ+math.sqrt(2*k)
 
     return summ
 
