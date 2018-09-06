@@ -24,6 +24,7 @@ def main():
     print_cosines()
     draw_cosines_and_sines()
 
+
 def print_sequence1():
     """
     Prints:
